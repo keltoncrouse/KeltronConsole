@@ -117,7 +117,7 @@ namespace Keltron
                 Console.Clear();
                 if (guessesRemaining == 4)
                 {
-                    Console.WriteLine("A random number has been generated, you have four attempts to guess it");
+                    Console.WriteLine("A random number between 1 and 10 has been generated, you have four attempts to guess it");
                     Console.WriteLine("You have 4 attempts remaining.");
                 }
                 if (guessesRemaining == 3)
