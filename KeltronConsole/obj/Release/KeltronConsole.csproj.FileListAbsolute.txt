@@ -1,0 +1,6 @@
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\bin\Release\KeltronConsole.exe.config
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\bin\Release\KeltronConsole.exe
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\bin\Release\KeltronConsole.pdb
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\obj\Release\KeltronConsole.csprojResolveAssemblyReference.cache
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\obj\Release\KeltronConsole.exe
+C:\Users\Kelton Crouse\KeltronConsole\KeltronConsole\obj\Release\KeltronConsole.pdb
