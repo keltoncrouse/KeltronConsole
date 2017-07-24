@@ -1,0 +1,5 @@
+c:\users\kelton crouse\documents\KeltronConsole\KeltronConsole\bin\Debug\KeltronConsole.exe.config
+c:\users\kelton crouse\documents\KeltronConsole\KeltronConsole\bin\Debug\KeltronConsole.exe
+c:\users\kelton crouse\documents\KeltronConsole\KeltronConsole\bin\Debug\KeltronConsole.pdb
+c:\users\kelton crouse\documents\KeltronConsole\KeltronConsole\obj\Debug\KeltronConsole.exe
+c:\users\kelton crouse\documents\KeltronConsole\KeltronConsole\obj\Debug\KeltronConsole.pdb
